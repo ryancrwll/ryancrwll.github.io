@@ -1,0 +1,13 @@
+{
+    "name": [
+        ["en", "Side Scan Sonar (SSS) Image Rectification"],
+        ["es", "Rectificación de imágenes de sonar de barrido lateral"]
+    ],
+    "year": 2025,
+    "description": [
+        ["en", "Generate Depth Maps from 3D Meshes using camera pose information."],
+        ["es", "Generar mapas de profundidad a partir de mallas 3D utilizando información de la pose de la cámara."],
+        ["ar", "إنشاء خرائط عمق من الشبكات ثلاثية الأبعاد باستخدام معلومات وضعية الكاميرا."]
+    ],
+    "image": "../../assets/images/projects/girona500.png"
+}

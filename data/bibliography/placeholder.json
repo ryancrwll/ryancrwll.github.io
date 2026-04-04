@@ -1,0 +1,19 @@
+{
+    "title": "Upcoming Research",
+    "authors": ["@me"],
+    "date": "2026-04-01",
+    "published": "2026-04-01",
+    "journal": "TBD",
+    "publisher": "TBD",
+    "doi": "10.0000/dummy",
+    "preview": "../../assets/images/projects/girona500.png",
+    "pdf": "../../assets/images/projects/girona500.png",
+    "keywords": ["SLAM", "Robotics"],
+    "links": [
+        {
+            "name": "Project Page",
+            "link": "https://example.com"
+        }
+    ],
+    "bibtex": "@article{dummy2026,\n  title={Upcoming Research},\n  author={Crowell, Ryan},\n  journal={TBD},\n  year={2026}\n}"
+}

@@ -1,0 +1,13 @@
+{
+    "name": [
+        ["en", "Pick and Place Behavior Tree"],
+        ["es", "Árbol de comportamiento de recogida y colocación"]
+    ],
+    "year": 2025,
+    "description": [
+        ["en", "Underwater mapping and exploration using a custom built drone. The goal is fully autonomous mapping."],
+        ["es", "Mapeo y exploración submarina utilizando un dron personalizado. El objetivo es un mapeo totalmente autónomo."]
+    ],
+    "image": "../../assets/images/projects/6DOF_behaviour_tree.jpg",
+    "link": "https://www.youtube.com/watch?v=Qd8FpeB22IE"
+}

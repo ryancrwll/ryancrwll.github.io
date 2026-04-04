@@ -95,7 +95,7 @@ const PublicationCard = ({ publication, ...props }: PublicationCardProps) => {
                             <Spacer />
 
                             <Wrap marginTop={2} gridGap={3}>
-                                {publication.keywords.map((keyword, index) => (
+                                {publication.keywords?.map((keyword, index) => ( //here!!!!!
                                     <WrapItem key={index}>
                                         <Tag size="md" colorScheme='blue'>
                                             {keyword}

@@ -1,0 +1,13 @@
+{
+    "name": [
+        ["en", "Event-based Camera SLAM with RNN-GRU"],
+        ["es", "SLAM de cámara de eventos con RNN-GRU"]
+    ],
+    "year": 2025,
+    "description": [
+        ["en", "The Continuum Robotics Visualization Toolkit (CRVizToolkit). Developed the python port."],
+        ["es", "El kit de herramientas de visualización de robótica continua (Útiles de CRVis). Desarrollé la versión Python."]
+    ],
+    "image": "../../assets/images/projects/ebc_slam_RNN-GRU.png",
+    "link": "https://github.com/ryancrwll/aml_project"
+}

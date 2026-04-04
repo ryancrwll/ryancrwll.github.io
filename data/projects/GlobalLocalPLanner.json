@@ -1,0 +1,14 @@
+{
+    "name": [
+        ["en", "Global Local Planner (DWA/RRT*) with Frontier Search"],
+        ["es", "Planificador Global Local (DWA/RRT*) con Búsqueda de Frontera"]
+    ],
+    "year": 2025,
+    "description": [
+        ["en", "The Mini-Girona I-AUV is designed to enhance accessibility in marine robotics education."],
+        ["es", "El Mini-Girona I-AUV está diseñado para mejorar la accesibilidad en la educación de robótica marina."],
+        ["ar", "تم تصميم الميني جيرونا لتعزيز إمكانية الوصول في تعليم الروبوتات البحرية."]
+    ],
+    "image": "../../assets/images/projects/DWAcontroller.png",
+    "link": "https://www.youtube.com/watch?v=4roI57UxnEw"
+}
