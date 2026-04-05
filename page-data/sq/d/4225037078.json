@@ -1,1 +1,1 @@
-{"data":{"allLanguagesJson":{"nodes":[{"code":"en","name":"English","hrefLang":"en-CA","langDir":"ltr","fields":{"isDefault":true}},{"code":"es","name":"Español","hrefLang":"es-MX","langDir":"ltr","fields":{"isDefault":false}}]}}}
+{"data":{"allLanguagesJson":{"nodes":[{"code":"en","name":"English","hrefLang":"en-US","langDir":"ltr","fields":{"isDefault":true}},{"code":"es","name":"Español","hrefLang":"es-MX","langDir":"ltr","fields":{"isDefault":false}}]}}}
